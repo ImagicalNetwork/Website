@@ -1,3 +1,3 @@
 <?php
-header ('Location: http://killasg.ml');
+header ('Location: http://play.imagicalmine.net');
 ?>
